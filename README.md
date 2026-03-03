@@ -54,7 +54,6 @@ Toma de decisiones basada en datos
 
 ## 📂 Proyectos destacados
 
-📊 Análisis Predictivo de Talento NBA
-📈 Dashboards interactivos en Power BI
-🗄️ Modelado de bases de datos con SQL
-🐍 Análisis exploratorio y automatización con Python
+📊 **Análisis Predictivo de Talento NBA**  
+Proyecto desarrollado en colaboración.  
+👉 [Explorar repositorio](https://github.com/CandelaAntognoli/Analisis-Predictivo-De-Talento-NBA/blob/main/README.md)

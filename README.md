@@ -52,7 +52,7 @@ Análisis predictivo
 
 Toma de decisiones basada en datos
 
-📂 Proyectos destacados
+## 📂 Proyectos destacados
 
 📊 Análisis Predictivo de Talento NBA
 📈 Dashboards interactivos en Power BI

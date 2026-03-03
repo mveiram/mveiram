@@ -1,4 +1,4 @@
-#¡Hola! Soy Mauricio Veira
+# ¡Hola! Soy Mauricio Veira
 
 Ingeniero enfocado en Data Analytics
 Formación en Ingeniería con experiencia inicial en el sector energético, donde desarrollé pensamiento analítico, toma de decisiones basada en datos y resolución de problemas en entornos técnicos exigentes.

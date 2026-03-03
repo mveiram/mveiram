@@ -5,7 +5,7 @@ Formación en Ingeniería con experiencia inicial en el sector energético, dond
 
 Actualmente enfocado en el mundo del Análisis de Datos, aplicando herramientas tecnológicas para transformar información en decisiones estratégicas que generen impacto real en el negocio.
 
-## Habilidades y herramientas
+##  📊 Habilidades y herramientas
 ### Habilidades
 
 Pensamiento analítico 
@@ -20,7 +20,7 @@ Enfoque en servicio al cliente
 
 Proactividad y mentalidad orientada a resultados
 
-## Herramientas
+## 💻 Herramientas
 
 Power BI 
 
@@ -34,11 +34,11 @@ Git & GitHub
 
 
 
-## Mi objetivo profesional
+## 🎯 Mi objetivo profesional
 
 Consolidarme como Data Analyst y aportar valor en proyectos de Business Intelligence mediante análisis, visualización y modelado de datos que respalden decisiones estratégicas basadas en evidencia.
 
-## Áreas de interés
+##  ✔️ Áreas de interés
 
 Business Intelligence (BI)
 
